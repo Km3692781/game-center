@@ -10,6 +10,7 @@ const engine = new Engine(canvas)
 
 engine.init().then(() => {
   engine.start()
+  ;(window as unknown as { __engine: Engine }).__engine = engine
 }).catch((err: unknown) => {
   console.error('Failed to initialize game engine:', err)
 })

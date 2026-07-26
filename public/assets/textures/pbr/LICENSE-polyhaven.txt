@@ -1,0 +1,8 @@
+	PBR environment textures from Poly Haven (polyhaven.com)
+	- asphalt_02
+	- grass_path_3
+
+	License: CC0 1.0 Universal
+	https://creativecommons.org/publicdomain/zero/1.0/
+---
+gravelly_sand + studio_small_09 HDRI from Poly Haven (CC0)

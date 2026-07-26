@@ -1,0 +1,21 @@
+# Asset licenses
+
+## Poly Haven (CC0)
+- Textures: asphalt_track, leafy_grass, gravel_floor, red_brick_03, concrete_wall_008, bark_brown_02
+- HDRIs: qwantani_noon_puresky, studio_small_09
+- https://polyhaven.com
+
+## Quaternius Ultimate Nature Pack (CC0)
+- Trees, bushes, rocks (FBX)
+- https://quaternius.com / OpenGameArt
+
+## OpenGameArt motorcycle (CC0)
+- bikes_hq/motorcycle (converted OBJ → GLB)
+
+## three.js examples
+- ferrari.glb — CC-BY 4.0 (credit: vicent091036 / Sketchfab Ferrari 458 via three.js)
+- Xbot.glb — Mixamo character via three.js examples (check Adobe Mixamo terms for shipping)
+
+## Kenney (CC0)
+- Original car kit / motorcycle retained as fallback
+- https://kenney.nl

@@ -1,12 +1,13 @@
 {
   "name": "racing-game",
   "version": "1.0.0",
-  "description": "",
+  "description": "Browser motorcycle combat racer inspired by Road Rash",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
   },
   "keywords": [],
   "author": "",
